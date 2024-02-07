@@ -1,0 +1,1 @@
+[{"NrProcessoEscola":"1","Nome":"Lurdes","Password":"Lurdes1","Email":"lurdesdascouves@gmail.com","DataNascimento":"2003-05-31T00:00:00","NumeroTlm":"960424821"},{"NrProcessoEscola":"1","Nome":"Lurdes","Password":"Lurdes1","Email":"lurdesdascouves@gmail.com","DataNascimento":"2003-05-31T00:00:00","NumeroTlm":"960424821"}]
